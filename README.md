@@ -15,3 +15,5 @@ Apache Tomcat, XAMPP, MYSQL for database, PHP for backend, HTML, CSS & Javascrip
 
 ### Hardware Requirements: 
 Min 2GB RAM, Min 500 GB HDD, Lenovo Ideapad 320 
+
+### Screenshots of the project
